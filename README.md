@@ -29,5 +29,5 @@ Artificial Intelligence & Machine Learning is currently being used to assess cli
 Robo-advisors do not use a whole lot of AI in their implementation so far. In fact, the majority of them simply automate portfolio strategies that fit with some version of modern portfolio theory (MPT) and build optimized passive indexed portfolios. They then continuously scan and rebalance client portfolios but the investment strategy is not informed by any sort of machine learning. Still, these companies are looking for ways to use AI to enhance MPT through strategies like smart beta investing.
 
 ###### Resources - https://www.investopedia.com/financial-advisor/how-ai-shaping-advisory-landscape/
-                   https://www.wealthsimple.com/en-ca/about/who-we-are
+###### Resource - https://www.wealthsimple.com/en-ca/about/who-we-are
 
