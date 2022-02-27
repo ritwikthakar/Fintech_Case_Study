@@ -14,6 +14,7 @@ Wealthsimple is a Canadian online investment management service whcih aims at at
 In 2020, Wealthsimple raised $114 million (US$87 million) in funding from an investor group led by Technology Crossover Ventures, in addition to Greylock Partners, Meritech Capital Partners, Two Sigma Ventures, and Allianz X.
 
 ###### Resource - https://www.theglobeandmail.com/business/article-wealthsimple-announces-landmark-750-million-financing-from-investor/
+###### Resource - https://www.bnnbloomberg.ca/wealthsimple-tops-1b-valuation-in-latest-fundraising-round-1.1507929
 
 ## Business Activities:
 
@@ -31,3 +32,28 @@ Robo-advisors do not use a whole lot of AI in their implementation so far. In fa
 ###### Resources - https://www.investopedia.com/financial-advisor/how-ai-shaping-advisory-landscape/
 ###### Resource - https://www.wealthsimple.com/en-ca/about/who-we-are
 
+## Landscape:
+
+The Robo-advisory Services Market is expected to register a CAGR of approximately 40.3% during the forecast period (2021-2026). The rapid digitization of the industry has accelerated the growth of digital investments in which the Robo-advisors are playing a major role. 
+Investors who want the ability to get more granular to fit their more specific needs will appreciate the functionality of this robo-advisor. With so many portfolios, including a number of tax-efficient options for non-registered accounts, income portfolios for investors who are decumulating their wealth and target date funds for education savings, users should be able to find something that works.
+
+Looking at the shift in consumer demand for low cost passive investing, many financial companies like Big 6 banks in Canada, Trust Companies & Investment Management companies have launched low cost solutions. For Wealthsimple currently, the competitions is not only from other firms providing Robo Advisory services but also from other investment solutions like ETF which have gained a lot of popularity due to thier passive style of investing & low cost.
+
+Currenlty Wealthsimple's Market cap stands at $1 billion. Big 6 banks in Canada like RBC, TD & BMO have market caps at $200 billion, $190 billion & $94 billion respectively. If the big banks see a growth in consumer demand for Robo Advisory services, they can easily laucnh their own Robo Advisor service at a lower cost and still manage to run it for a longer period of time since thay they have a plenty of capital avalable for business. To compete with Wealthsimple, BMO has launched it's Robo Advisor Service whcih it calls BMO Smart Folios anb RBC has launched it's version of a Robo Advisor whcih it has named RBC Investease. 
+
+#### Competitors
+
+| Robo Advisor  | Fees          | 5 Yr Return|
+| ------------- |:-------------:| ----------:|
+| Wealthsimple  | 0.4%-0/5%     |   5.9%     |
+| BMO           | 0.4%-0.7%     |   6.18%    |
+| RBC           | 0.5%          |   9.47%    |
+| CI            | 0.35% -0.6%   |   8.62%    |
+| Nest Wealth   | $150 month    |   8.75%    |
+| Smart Money   | 0.8%          |   7.73%    |
+| Questwealth   | 0.2% - 0.25%  |   6.76%    |
+
+
+###### Resource - https://www.moneysense.ca/save/investing/best-robo-advisors-in-canada/
+###### Resource - https://www.bnnbloomberg.ca/wealthsimple-tops-1b-valuation-in-latest-fundraising-round-1.1507929#:~:text=It%20has%20more%20than%20175%2C000,%24743%20million%2C%20PitchBook%20data%20show.
+###### Resource - https://youngandthrifty.ca/complete-guide-to-canadas-robo-advisors/
