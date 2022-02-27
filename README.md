@@ -54,6 +54,11 @@ Currenlty Wealthsimple's Market cap stands at $1 billion. Big 6 banks in Canada 
 | Questwealth   | 0.2% - 0.25%  |   6.76%    |
 
 
+An article in Moneysense rated Wealthsimple as the one of the best Robo Advisors for options over time. However BMO's Smartfolios were rated as the best Robo Advisor for a combination of both active & passive investing. CI's robo advisory was awarded the best for sophisticated offerings while Questwealth was rated as the best Robo Advisor for stock pickers. 
+
+We can see that currently the market for Robo Advisors is very fragmented and there is no 1 single firm that has a competitive advantage over the other. As time passes and demand increases, there is a strong probability that there will be consolidation is this marketspace and we may see only 2 or 3 firms which have a strong market share. The other firms may either go out of business or could merge with larger firms.
+
+
 ###### Resource - https://www.moneysense.ca/save/investing/best-robo-advisors-in-canada/
 ###### Resource - https://www.bnnbloomberg.ca/wealthsimple-tops-1b-valuation-in-latest-fundraising-round-1.1507929#:~:text=It%20has%20more%20than%20175%2C000,%24743%20million%2C%20PitchBook%20data%20show.
 ###### Resource - https://youngandthrifty.ca/complete-guide-to-canadas-robo-advisors/
