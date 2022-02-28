@@ -71,3 +71,10 @@ Canada's Big 6 Banks make it hard for challengers to win market share. Just five
 
 Despite the headwinds, Wealthsimple's continued user and product growth are positive signs that it could become a significant challenger. The company's emerging banking play is similar to measures taken by US-based Venmo, which has evolved beyond P2P mobile payments into products such as cryptocurrency trading,  mobile check cashing, and a credit card.
 
+## Recommendations
+
+One recommendation that would help Wealthsimple expand it's customer base is by using artifcial intelligence & machine learning in the investment management process to increase the level of customization & presonalization in client portfolios. The current questionnare used by Robo Adivisors has a lot of close ended questions and matching of investments with client needs is done only on a quantitative basis. The process should also use open ended questions to understand the emotion behind the investment purpose. Neural networks can be used to capture these emotions & also invest based on qualitative information.
+
+For clients investment money & long term savings is an emotional process and one cannot provide recomendations based solely on quantitatve data. Client's are more likely to stay with an advisor when they know the advice being provided is in the client's best interest. Natural language processing & neural networks can be used to assess and interpret the human emotions in the investment process and be used effectively to provide more suitable recommendations.
+
+A neural networks are algorithms that attempt to recognize the relationships in a set of data through a process that replicates the way the human brain operates. In this sense, neural networks refer to systems of neurons, either organic or artificial in nature.Neural networks can adapt to changing input; so the network generates the best possible result without needing to redesign the output criteria. The concept of neural networks, which has its roots in artificial intelligence, is swiftly gaining popularity in the development of trading systems. Hence it will be more appropriate to use neural networks for this process
