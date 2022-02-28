@@ -62,3 +62,12 @@ We can see that currently the market for Robo Advisors is very fragmented and th
 ###### Resource - https://www.moneysense.ca/save/investing/best-robo-advisors-in-canada/
 ###### Resource - https://www.bnnbloomberg.ca/wealthsimple-tops-1b-valuation-in-latest-fundraising-round-1.1507929#:~:text=It%20has%20more%20than%20175%2C000,%24743%20million%2C%20PitchBook%20data%20show.
 ###### Resource - https://youngandthrifty.ca/complete-guide-to-canadas-robo-advisors/
+
+## Results
+
+The 2 metrics currently used to assess performance in the the Robo Advisor segments is growth of assets under management & number of clients being serviced by the firm. In the Robo Advsor domain, Wealthsimple is crrently the leader. They surpassed the 2 million user mark in Canada, up from around 1.5 million when it last reported the figure in 2020. Wealthsimple unveiled the user updates alongside a CAD$750 million funding round in 2021, which values it at CAD$5 billion more than triple the CAD$1.5 billion valuation it reached after its previous round in 2020.
+
+Canada's Big 6 Banks make it hard for challengers to win market share. Just five big banks dominate Canada's banking sector: BMO, TD Bank, RBC, CIBC, Scotiabank & National Bank. Digital banking is on the rise—the proportion of adults who use a digital channel at least monthly is projected to reach 72.0% in 2021—but the digital-only space is controlled by two incumbent-backed players: Simplii and Tangerine.
+
+Despite the headwinds, Wealthsimple's continued user and product growth are positive signs that it could become a significant challenger. The company's emerging banking play is similar to measures taken by US-based Venmo, which has evolved beyond P2P mobile payments into products such as cryptocurrency trading,  mobile check cashing, and a credit card.
+
